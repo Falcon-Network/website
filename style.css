@@ -156,7 +156,7 @@ button:hover {
 }
 /*--//wrapper--*/
 .coming-61-w3l-vv-mian {
-        background: url('background.jpg') no-repeat center;
+        background: url(background.jpg) no-repeat center;
         background-size: cover;
         -webkit-background-size: cover;
         -moz-background-size: cover;
